@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "experience": 10,
+        "recipes": 50,
+        "likes": 100,
+        "viewRecipesButton": "https://example.com/chef1-recipes"
+    },
+    {
+        "id": "2",
+        "picture": "https://example.com/chef2.jpg",
+        "name": "Maria Rodriguez",
+        "experience": 8,
+        "recipes": 30,
+        "likes": 75,
+        "viewRecipesButton": "https://example.com/chef2-recipes"
+    },
+    {
+        "id": "3",
+        "picture": "https://example.com/chef3.jpg",
+        "name": "David Lee",
+        "experience": 15,
+        "recipes": 70,
+        "likes": 120,
+        "viewRecipesButton": "https://example.com/chef3-recipes"
+    },
+    {
+        "id": "4",
+        "picture": "https://example.com/chef4.jpg",
+        "name": "Sarah Johnson",
+        "experience": 5,
+        "recipes": 20,
+        "likes": 50,
+        "viewRecipesButton": "https://example.com/chef4-recipes"
+    },
+    {
+        "id": "5",
+        "picture": "https://example.com/chef5.jpg",
+        "name": "Robert Nguyen",
+        "experience": 12,
+        "recipes": 60,
+        "likes": 90,
+        "viewRecipesButton": "https://example.com/chef5-recipes"
+    },
+    {
+        "id": "6",
+        "picture": "https://example.com/chef6.jpg",
+        "name": "Emily Wong",
+        "experience": 6,
+        "recipes": 25,
+        "likes": 55,
+        "viewRecipesButton": "https://example.com/chef6-recipes"
+    }
+]
