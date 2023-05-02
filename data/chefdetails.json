@@ -1,56 +1,56 @@
 [
     {
         "id": "1",
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://media.istockphoto.com/id/516329534/photo/last-straw.jpg?s=612x612&w=0&k=20&c=q9tScD01SPtN5QNAYgWG-ot4n_4hZXOgMStuFgmBFa8=",
         "name": "John Smith",
         "experience": 10,
         "recipes": 50,
         "likes": 100,
-        "viewRecipesButton": "https://example.com/chef1-recipes"
+        "description": "John is a classically trained chef with experience in both fine dining and casual cuisine. He's known for his creative use of local ingredients and his innovative approach to cooking."
     },
     {
         "id": "2",
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://media.istockphoto.com/id/959584318/photo/making-dinner-into-a-masterpiece.jpg?s=612x612&w=0&k=20&c=5sadZdufW-4j_ZmV3XM8KSZXRFcYRD-Nmh0vqTkIS7Y=",
         "name": "Maria Rodriguez",
         "experience": 8,
         "recipes": 30,
         "likes": 75,
-        "viewRecipesButton": "https://example.com/chef2-recipes"
+        "description": "Maria is a self-taught chef who specializes in traditional Latin American cuisine. Her recipes are full of bold flavors and spices, and she's always exploring new ways to incorporate fresh, local ingredients into her dishes."
     },
     {
         "id": "3",
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
         "name": "David Lee",
         "experience": 15,
         "recipes": 70,
         "likes": 120,
-        "viewRecipesButton": "https://example.com/chef3-recipes"
+        "description": "David is a Michelin-starred chef who has worked in some of the world's top restaurants. He's known for his meticulous attention to detail and his ability to elevate classic dishes to new heights with his unique flavor combinations."
     },
     {
         "id": "4",
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
         "name": "Sarah Johnson",
         "experience": 5,
         "recipes": 20,
         "likes": 50,
-        "viewRecipesButton": "https://example.com/chef4-recipes"
+        "description": "Sarah is a pastry chef who specializes in French patisserie. She's trained under some of the world's top pastry chefs, and her delicate, intricate desserts are a feast for both the eyes and the taste buds."
     },
     {
         "id": "5",
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://thumbs.dreamstime.com/b/female-chef-restaurant-kitchen-cooking-26869165.jpg",
         "name": "Robert Nguyen",
         "experience": 12,
         "recipes": 60,
         "likes": 90,
-        "viewRecipesButton": "https://example.com/chef5-recipes"
+        "description": "Robert is a chef who has traveled the world and has been inspired by the diverse cuisines he's encountered. His recipes are a fusion of different flavors and techniques, resulting in a unique culinary experience."
     },
     {
         "id": "6",
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://images.pexels.com/photos/2977514/pexels-photo-2977514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "name": "Emily Wong",
         "experience": 6,
         "recipes": 25,
         "likes": 55,
-        "viewRecipesButton": "https://example.com/chef6-recipes"
+        "description": "Emily is a vegan chef who believes that plant-based eating can be both healthy and delicious. Her recipes are full of vibrant colors and flavors, and she's always experimenting with new ingredients and techniques to create innovative dishes."
     }
 ]
