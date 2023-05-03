@@ -1,56 +1,116 @@
 [
     {
-        "id": "1",
-        "picture": "https://media.istockphoto.com/id/516329534/photo/last-straw.jpg?s=612x612&w=0&k=20&c=q9tScD01SPtN5QNAYgWG-ot4n_4hZXOgMStuFgmBFa8=",
-        "name": "John Smith",
-        "experience": 10,
-        "recipes": 50,
-        "likes": 100,
-        "description": "John is a classically trained chef with experience in both fine dining and casual cuisine. He's known for his creative use of local ingredients and his innovative approach to cooking."
+        "id": 1,
+        "chefName": "John Smith",
+        "chefPicture": "https://media.istockphoto.com/id/516329534/photo/last-straw.jpg?s=612x612&w=0&k=20&c=q9tScD01SPtN5QNAYgWG-ot4n_4hZXOgMStuFgmBFa8=",
+        "chefBio": "Chef John is a renowned chef with over 20 years of experience in the culinary industry. He is known for his creative and innovative approach to cooking, as well as his passion for using fresh, locally-sourced ingredients.",
+        "likes": 1000,
+        "numOfRecipes": 10,
+        "yearsOfExperience": 20,
+        "recipeName": "Grilled Salmon with Lemon Butter Sauce",
+        "ingredients": [
+            "salmon fillets",
+            "olive oil",
+            "lemon juice",
+            "butter",
+            "garlic"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. Brush salmon with olive oil and season with salt and pepper. Grill salmon for about 4-5 minutes per side, or until cooked through. In a small saucepan, melt butter and garlic over medium heat. Stir in lemon juice and season with salt and pepper. Drizzle lemon butter sauce over grilled salmon.",
+        "rating": 4.5
     },
     {
-        "id": "2",
-        "picture": "https://media.istockphoto.com/id/959584318/photo/making-dinner-into-a-masterpiece.jpg?s=612x612&w=0&k=20&c=5sadZdufW-4j_ZmV3XM8KSZXRFcYRD-Nmh0vqTkIS7Y=",
-        "name": "Maria Rodriguez",
-        "experience": 8,
-        "recipes": 30,
-        "likes": 75,
-        "description": "Maria is a self-taught chef who specializes in traditional Latin American cuisine. Her recipes are full of bold flavors and spices, and she's always exploring new ways to incorporate fresh, local ingredients into her dishes."
+        "id": 2,
+        "chefName": "Chef Maria",
+        "chefPicture": "https://media.istockphoto.com/id/959584318/photo/making-dinner-into-a-masterpiece.jpg?s=612x612&w=0&k=20&c=5sadZdufW-4j_ZmV3XM8KSZXRFcYRD-Nmh0vqTkIS7Y=",
+        "chefBio": "Chef Maria is a classically-trained chef who specializes in Italian cuisine. She has been cooking for over 15 years and is known for her authentic and delicious dishes.",
+        "likes": 500,
+        "numOfRecipes": 7,
+        "yearsOfExperience": 15,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "Cook spaghetti according to package instructions. In a large skillet, cook bacon until crispy. Remove bacon from skillet and set aside. In a small bowl, whisk together eggs and parmesan cheese. In the same skillet, sauté garlic until fragrant. Add cooked spaghetti to the skillet and toss with garlic. Add egg mixture to the skillet and stir until eggs are cooked and spaghetti is coated. Serve with crispy bacon on top.",
+        "rating": 4.2
     },
     {
-        "id": "3",
-        "picture": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
-        "name": "David Lee",
-        "experience": 15,
-        "recipes": 70,
-        "likes": 120,
-        "description": "David is a Michelin-starred chef who has worked in some of the world's top restaurants. He's known for his meticulous attention to detail and his ability to elevate classic dishes to new heights with his unique flavor combinations."
+        "id": 3,
+        "chefName": "Chef Alex",
+        "chefPicture": "https://www.campusfrance.org/sites/default/files/styles/mobile_visuel_principal_page/public/AdobeStock_160024647_%C2%A9alfa27.jpeg?itok=1szz-x_y",
+        "chefBio": "Chef Alex is a master of fusion cuisine, combining flavors from all over the world to create unique and delicious dishes. He has won numerous awards for his innovative approach to cooking.",
+        "likes": 750,
+        "numOfRecipes": 8,
+        "yearsOfExperience": 18,
+        "recipeName": "Korean Fried Chicken",
+        "ingredients": [
+            "chicken wings",
+            "flour",
+            "cornstarch",
+            "garlic",
+            "soy sauce"
+        ],
+        "cookingMethod": "In a bowl, mix flour and cornstarch. Coat chicken wings in the flour mixture. Deep fry chicken wings until golden brown and crispy. In a small saucepan, sauté garlic until fragrant. Add soy sauce and brown sugar to the saucepan and stir until combined. Toss fried chicken wings in the sauce until fully coated. Serve with rice and vegetables.",
+        "rating": 4.7
     },
     {
-        "id": "4",
-        "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
-        "name": "Sarah Johnson",
-        "experience": 5,
-        "recipes": 20,
-        "likes": 50,
-        "description": "Sarah is a pastry chef who specializes in French patisserie. She's trained under some of the world's top pastry chefs, and her delicate, intricate desserts are a feast for both the eyes and the taste buds."
+        "id": 4,
+        "chefName": "Chef Sarah Johnson ",
+        "chefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "chefBio": "Sarah is a pastry chef who specializes in French patisserie. She's trained under some of the world's top pastry chefs, and her delicate, intricate desserts are a feast for both the eyes and the taste buds.",
+        "likes": 500,
+        "numOfRecipes": 7,
+        "yearsOfExperience": 15,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "Cook spaghetti according to package instructions. In a large skillet, cook bacon until crispy. Remove bacon from skillet and set aside. In a small bowl, whisk together eggs and parmesan cheese. In the same skillet, sauté garlic until fragrant. Add cooked spaghetti to the skillet and toss with garlic. Add egg mixture to the skillet and stir until eggs are cooked and spaghetti is coated. Serve with crispy bacon on top.",
+        "rating": 4.2
     },
     {
-        "id": "5",
-        "picture": "https://thumbs.dreamstime.com/b/female-chef-restaurant-kitchen-cooking-26869165.jpg",
-        "name": "Robert Nguyen",
-        "experience": 12,
-        "recipes": 60,
-        "likes": 90,
-        "description": "Robert is a chef who has traveled the world and has been inspired by the diverse cuisines he's encountered. His recipes are a fusion of different flavors and techniques, resulting in a unique culinary experience."
+        "id": 5,
+        "chefName": "Chef Robert Nguyen",
+        "chefPicture": "https://thumbs.dreamstime.com/b/female-chef-restaurant-kitchen-cooking-26869165.jpg",
+        "chefBio": "Robert is a chef who has traveled the world and has been inspired by the diverse cuisines he's encountered. His recipes are a fusion of different flavors and techniques, resulting in a unique culinary experience.",
+        "likes": 500,
+        "numOfRecipes": 7,
+        "yearsOfExperience": 15,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "Cook spaghetti according to package instructions. In a large skillet, cook bacon until crispy. Remove bacon from skillet and set aside. In a small bowl, whisk together eggs and parmesan cheese. In the same skillet, sauté garlic until fragrant. Add cooked spaghetti to the skillet and toss with garlic. Add egg mixture to the skillet and stir until eggs are cooked and spaghetti is coated. Serve with crispy bacon on top.",
+        "rating": 4.2
     },
     {
-        "id": "6",
-        "picture": "https://images.pexels.com/photos/2977514/pexels-photo-2977514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "name": "Emily Wong",
-        "experience": 6,
-        "recipes": 25,
-        "likes": 55,
-        "description": "Emily is a vegan chef who believes that plant-based eating can be both healthy and delicious. Her recipes are full of vibrant colors and flavors, and she's always experimenting with new ingredients and techniques to create innovative dishes."
+        "id": 6,
+        "chefName": "Chef Emily Wong",
+        "chefPicture": "https://images.pexels.com/photos/2977514/pexels-photo-2977514.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "chefBio": "Emily is a vegan chef who believes that plant-based eating can be both healthy and delicious. Her recipes are full of vibrant colors and flavors, and she's always experimenting with new ingredients and techniques to create innovative dishes.",
+        "likes": 500,
+        "numOfRecipes": 7,
+        "yearsOfExperience": 15,
+        "recipeName": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "garlic"
+        ],
+        "cookingMethod": "Cook spaghetti according to package instructions. In a large skillet, cook bacon until crispy. Remove bacon from skillet and set aside. In a small bowl, whisk together eggs and parmesan cheese. In the same skillet, sauté garlic until fragrant. Add cooked spaghetti to the skillet and toss with garlic. Add egg mixture to the skillet and stir until eggs are cooked and spaghetti is coated. Serve with crispy bacon on top.",
+        "rating": 4.2
     }
 ]
